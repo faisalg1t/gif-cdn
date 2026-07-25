@@ -6,8 +6,8 @@ A curated collection of high-quality anime roleplay GIFs, organized by action ca
 
 ## Stats
 
-| | |
-|---|---|
+| Stat | Value |
+|------|-------|
 | Total categories | **61** |
 | Total GIFs | **682** |
 | Hosted on | GitHub Raw CDN |
