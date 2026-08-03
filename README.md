@@ -99,6 +99,28 @@ https://raw.githubusercontent.com/itsfizys/roleplay-gifs/main/hug/1.gif
 https://raw.githubusercontent.com/itsfizys/roleplay-gifs/main/slap/4.gif
 https://raw.githubusercontent.com/itsfizys/roleplay-gifs/main/cry/11.gif
 ```
+---
+
+## npm package
+
+An npm wrapper is also available if you prefer installing via a package manager.
+
+```bash
+npm install gifcdn
+```
+
+→ [npmjs.com/package/gifcdn](https://www.npmjs.com/package/gifcdn)
+
+```js
+import { random, get, list, categories } from "gifcdn";
+
+await random("hug");        // → full URL to a random hug GIF
+await get("slap", 3);       // → .../slap/3.gif
+await list("cry");          // → array of all 22 cry GIF URLs
+await categories();         // → ["airkiss", "angrystare", ...]
+```
+
+The package ships with TypeScript types and zero dependencies — it's a thin wrapper around the same raw CDN URLs above.
 
 ---
 
