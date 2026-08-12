@@ -73,7 +73,7 @@ No prefixes. No zero-padding. No underscores. Just the number and `.gif`.
 5. Add a row for the new category to the table in `README.md` in alphabetical order, using this format:
 
 ```md
-| `categoryname` | N | `.../categoryname/{1..N}.gif` | ![categoryname](https://raw.githubusercontent.com/itsfizys/roleplay-gifs/main/categoryname/1.gif) |
+| `categoryname` | N | `.../categoryname/{1..N}.gif` | ![categoryname](https://raw.githubusercontent.com/faisalg1t/gif-cdn/main/categoryname/1.gif) |
 ```
 
 6. Open a pull request — explain the category and why it's a good addition
@@ -100,7 +100,7 @@ The structure is straightforward:
 
 ```json
 {
-  "base_url": "https://raw.githubusercontent.com/itsfizys/roleplay-gifs/main",
+  "base_url": "https://raw.githubusercontent.com/faisalg1t/gif-cdn/main",
   "total_categories": 61,
   "total_gifs": 682,
   "categories": {
