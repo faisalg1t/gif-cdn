@@ -12,7 +12,7 @@ Fill in the category name and number, then paste the full URL:
 
 - Category: `<!-- e.g. hug -->`
 - Number: `<!-- e.g. 7 -->`
-- URL: `https://raw.githubusercontent.com/itsfizys/roleplay-gifs/main/CATEGORY/NUMBER.gif`
+- URL: `https://raw.githubusercontent.com/faisalg1t/gif-cdn/main/CATEGORY/NUMBER.gif`
 
 ## What is wrong with it?
 
